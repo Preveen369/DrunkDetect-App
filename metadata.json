@@ -1,0 +1,7 @@
+{
+  "name": "DrunkDetect: AI Emotion & Intoxication Analysis",
+  "description": "A prototype based on the 'DrunkDetect' research paper. It uses a simulated model for real-time facial emotion and intoxication analysis from a webcam, and integrates Gemini for advanced image analysis and chatbot capabilities.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
