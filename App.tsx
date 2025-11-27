@@ -34,7 +34,7 @@ const App: React.FC = () => {
       <main className="flex-grow p-4 md:p-6 lg:p-8">
         {renderView()}
       </main>
-      <footer className="text-center p-4 text-xs text-slate-500">
+      <footer className="text-center p-4 text-s text-slate-500">
         <p>DrunkDetect Prototype done by Preveen S💖</p>
       </footer>
     </div>
