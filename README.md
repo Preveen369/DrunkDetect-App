@@ -1,5 +1,5 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+<img width="1200" height="340" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
 </div>
 
 # DrunkDetect: AI Emotion & Intoxication Analysis
@@ -31,13 +31,6 @@ DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE resea
 3. For live analysis: Click "Start" to enable camera; the app simulates real-time detection with progress bars and results.
 4. Chat with the AI: Ask questions like "How does intoxication detection work?" for guided responses on ViTs, ethics, or usage.
 5. Review the About section for research details and ethical guidelines, ensuring all analyses prioritize user privacy.
-
-
----
-## 📸 Screenshots
-
-Below are some screenshots showcasing the **DrunkDetect-App** prototype:
-![Prototype_Example](./Prototype_Screenshot.png)
 
 ---
 ## 🧪 Setup & Installation
