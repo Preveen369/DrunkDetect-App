@@ -32,6 +32,15 @@ DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE resea
 4. Chat with the AI: Ask questions like "How does intoxication detection work?" for guided responses on ViTs, ethics, or usage.
 5. Review the About section for research details and ethical guidelines, ensuring all analyses prioritize user privacy.
 
+
+---
+## 📸 Screenshots
+
+Below are some screenshots showcasing the **DrunkDetect-App** prototype:
+<div align="center">
+<img width="1200" height="475" alt="DrunkDetect" src="/Prototype_Screenshot.png" />
+</div>
+
 ---
 ## 🧪 Setup & Installation
 ### 📋 Prerequisites
