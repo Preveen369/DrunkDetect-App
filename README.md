@@ -3,11 +3,9 @@
 </div>
 
 # DrunkDetect: AI Emotion & Intoxication Analysis
-DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE research paper "DrunkDetect: Transformer-Based Facial Emotion Analysis and Intoxication Identification with Masked Learning." It enables users to perform real-time emotion detection and intoxication assessment using facial cues from photos or live camera feeds. Integrated with Google's Gemini AI for chat-based insights and ethical guidance, the app simulates advanced ViT (Vision Transformer) and MAE (Masked Autoencoder) techniques for privacy-aware analysis, emphasizing consent and responsible use.
+DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE research paper "DrunkDetect: Transformer-Based Facial Emotion Analysis and Intoxication Identification with Masked Learning." It enables users to perform real-time emotion detection and intoxication assessment using facial cues from photos or live camera feeds. Integrated with Google's Gemini AI for chat-based insights and ethical guidance, the app simulates advanced ViT (Vision Transformer) and MAE (Masked Autoencoder) techniques for privacy-aware analysis, consent use.
 
-🔗 **Live Project**: [View DrunkDetect Prototype in Google AI Studio](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_h7O7jsYsMMcxlK2l4aQSj_B-CBAN8m_%22%5D,%22action%22:%22open%22,%22userId%22:%22111062033513863225413%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
-
-**📽️ Project Demo**: [View DrunkDetect Prototype Demo](https://jmp.sh/ApPuOGCV)
+[Live Demo in AI Studio](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_h7O7jsYsMMcxlK2l4aQSj_B-CBAN8m_%22%5D,%22action%22:%22open%22,%22userId%22:%22111062033513863225413%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing)
 
 ---
 ## 🚀 Features
@@ -54,6 +52,5 @@ cd DrunkDetect-App
    npm run dev
    ```
    - Open [http://localhost:5173](http://localhost:5173) in your browser.
-
 
 For production: Build with `npm run build` and deploy to Vercel/Netlify. View the hosted prototype in [Google AI Studio](https://aistudio.google.com/apps/drive/1_h7O7jsYsMMcxlK2l4aQSj_B-CBAN8m_). Note: Ethical use only—obtain consent for any real-world facial analysis!
