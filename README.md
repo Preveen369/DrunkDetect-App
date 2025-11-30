@@ -37,9 +37,7 @@ DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE resea
 ## 📸 Screenshots
 
 Below are some screenshots showcasing the **DrunkDetect-App** prototype:
-<div align="center">
-<img width="1200" height="475" alt="DrunkDetect" src="/Prototype_Screenshot.png" />
-</div>
+![Prototype_Example](./Prototype_Screenshot.png)
 
 ---
 ## 🧪 Setup & Installation
