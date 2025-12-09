@@ -10,7 +10,22 @@ DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE resea
 **📽️ Project Demo**: [View DrunkDetect Prototype Demo](https://jmp.sh/ApPuOGCV)
 
 ---
-## 🚀 Features
+
+# 🏆 Conference Publication & Certification
+
+We proudly presented this research work at, "**2025 4th International Conference on Sensors and Related Networks (SENNET) - Special Focus on Digital Healthcare**" held on July 24-26, 2025, at VIT University, Vellore, India through **Physical Mode**
+
+Paper-ID with title: **216 - DrunkDetect: Transformer-Based Facial Emotion Analysis and Intoxication Identification with Masked Learning**
+
+- **📄 View IEEE Conference Paper**: 👉 [Click to Open the Research Paper (PDF)](./reports/ieee-paper-261.pdf)
+
+- **🏅 View Presentation Certificate**: 👉 [Click to Open Presentation Certificate (PDF)](./reports/presented-certificate-261.pdf)
+
+- **🌐 IEEE Xplore Publication Link**: 👉 [Click to Open Paper's DOI Link](https://doi.org/10.1109/SENNET64220.2025.11135959)
+
+---
+
+## 🚀 Core Features
 - 📸 **Live Analysis**: Activate your camera for real-time emotion and intoxication detection, with confidence scores and status updates (e.g., "Analyzing...").
 - 🖼️ **Analyze Photo**: Upload facial images for Gemini-powered analysis, detecting emotions and subtle intoxication signs like iris changes.
 - 💬 **Chat with AI**: Interact with a Gemini 1.5 Pro assistant for explanations on app functionality, research science, emotions, or ethical queries.
