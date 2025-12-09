@@ -13,7 +13,7 @@ DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE resea
 
 # 🏆 Conference Publication & Certification
 
-We proudly presented this research work at, "**2025 4th International Conference on Sensors and Related Networks (SENNET) - Special Focus on Digital Healthcare**" held on July 24-26, 2025, at VIT University, Vellore, India through **Physical Mode**
+We proudly presented this research work at, "**2025 4th International Conference on Sensors and Related Networks (SENNET) - Special Focus on Digital Healthcare**" held on July 24-27, 2025, at VIT University, Vellore, India through **Physical Mode**
 
 Paper-ID with title: **216 - DrunkDetect: Transformer-Based Facial Emotion Analysis and Intoxication Identification with Masked Learning**
 
