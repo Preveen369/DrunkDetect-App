@@ -1,7 +1,3 @@
-<div align="center">
-<img width="1200" height="300" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
-
 # DrunkDetect: AI Emotion & Intoxication Analysis
 DrunkDetect is an innovative AI-powered web prototype inspired by the IEEE research paper "DrunkDetect: Transformer-Based Facial Emotion Analysis and Intoxication Identification with Masked Learning." It enables users to perform real-time emotion detection and intoxication assessment using facial cues from photos or live camera feeds. Integrated with Google's Gemini AI for chat-based insights and ethical guidance, the app simulates advanced ViT (Vision Transformer) and MAE (Masked Autoencoder) techniques for privacy-aware analysis, consent use.
 
@@ -46,6 +42,13 @@ Paper-ID with title: **216 - DrunkDetect: Transformer-Based Facial Emotion Analy
 3. For live analysis: Click "Start" to enable camera; the app simulates real-time detection with progress bars and results.
 4. Chat with the AI: Ask questions like "How does intoxication detection work?" for guided responses on ViTs, ethics, or usage.
 5. Review the About section for research details and ethical guidelines, ensuring all analyses prioritize user privacy.
+
+---
+
+## 🙋‍♂️ Team & Contributors
+
+**Lead Developer**: Preveen S  
+**Contributors**: Johnson J, Gowtham R, Purushothaman C
 
 ---
 ## 🧪 Setup & Installation

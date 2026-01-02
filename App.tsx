@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import LiveAnalysis from './components/LiveAnalysis';
 import AnalyzePhoto from './components/AnalyzePhoto';
@@ -35,7 +34,7 @@ const App: React.FC = () => {
         {renderView()}
       </main>
       <footer className="text-center p-4 text-s text-slate-500">
-        <p>DrunkDetect Prototype done by Preveen S💖</p>
+        <p>DrunkDetect Prototype done by Preveen S, Gowtham R, Johnson J, Purushothaman C💖</p>
       </footer>
     </div>
   );

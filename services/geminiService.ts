@@ -11,6 +11,8 @@ if (!API_KEY) {
 
 const ai = new GoogleGenAI({ apiKey: API_KEY! });
 let chat: Chat | null = null;
+// Gemini API limits the thinking budget; keep it within allowed bounds to avoid 400 errors.
+const MAX_THINKING_BUDGET = 24576;
 
 function fileToGenerativePart(file: File) {
   return new Promise((resolve, reject) => {
@@ -43,10 +45,10 @@ export const analyzeImageWithGemini = async (imageFile: File): Promise<string> =
     `;
     
     const response = await ai.models.generateContent({
-      model: 'gemini-3-pro-preview',
+      model: 'gemini-2.5-flash-lite',
       contents: { parts: [imagePart as any, {text: prompt}] },
       config: {
-        thinkingConfig: { thinkingBudget: 32768 }
+        thinkingConfig: { thinkingBudget: MAX_THINKING_BUDGET }
       }
     });
 
@@ -62,7 +64,7 @@ export const getChatbotResponse = async (message: string): Promise<string> => {
   try {
     if (!chat) {
         chat = ai.chats.create({
-            model: 'gemini-3-pro-preview',
+          model: 'gemini-2.5-flash-lite',
             config: {
                 systemInstruction: "You are a friendly and helpful AI guide for the DrunkDetect application. Your personality is approachable and supportive. Keep your answers concise, clear, and easy to understand, breaking down complex topics into simple points. Avoid overly long responses. Your goal is to provide just the right amount of information to be helpful without overwhelming the user. You can answer questions about the app's technology (like Vision Transformers), emotions, signs of intoxication, and related safety topics. Always be responsible and encouraging in your tone.",
             }
