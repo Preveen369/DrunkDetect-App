@@ -76,3 +76,4 @@ cd DrunkDetect-App
 For production: Build with `npm run build` and deploy to Vercel/Netlify. View the hosted prototype in [Google AI Studio](https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221_h7O7jsYsMMcxlK2l4aQSj_B-CBAN8m_%22%5D,%22action%22:%22open%22,%22userId%22:%22111062033513863225413%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing). Note: Ethical use only—obtain consent for any real-world facial analysis!
 
 
+
